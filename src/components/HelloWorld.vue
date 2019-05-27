@@ -8,7 +8,7 @@
 						<p class="information">{{item.name}}</p>
 						<p class="remark">{{item.remark}}</p>
 						<div class="detail">
-							<span @click="User"> 张三张三张三张三张三</span>
+							<span @click="User"> 李四</span>
 							<van-icon name="arrow" />
 						</div>
 					</div>
